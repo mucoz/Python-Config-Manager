@@ -6,7 +6,7 @@ from logger import Logger
 import os
 import shutil
 import datetime
-# TODO : add explanations for write_* methods
+
 
 class ConfigManager:
     def __init__(self):
